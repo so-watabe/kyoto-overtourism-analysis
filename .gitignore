@@ -1,2 +1,5 @@
 # Microsoft Office temporary files
 ~$*
+
+# Python virtual environment
+.venv/
