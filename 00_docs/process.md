@@ -134,8 +134,8 @@ Step 4 🔎 Data Understanding
 - [x] 2024年観光データを収集
 - [x] 人口データを収集
 - [x] 分析用Excelデータを作成
-- [ ] 各データの出典URL・取得日を整理
-- [ ] raw / processed の区分を最終確認
+- [x] 各データの出典URL・取得日を整理
+- [x] raw / processed の区分を最終確認
 
 ## 成果物
 
